@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    font-size: 450%;
+    text-align: center;
+}
+
+table, td, tr {
+    border: 95px solid #14c95f;
+    border-collapse: collapse;
+}
+
+td, tr {
+    width: 50%;
+    height: 33.33%;
+}
+
+table {
+    width: 30cm;
+    height: 18cm;
+}
+
+.header {
+    font-variant: small-caps;
+}
+
+.thicc {
+    font-weight: bold;
+}
+
+.blue {
+    color: darkblue;
+}
